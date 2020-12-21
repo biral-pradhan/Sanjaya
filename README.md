@@ -1,4 +1,4 @@
-# Sanjaya - The Tactical Braille Interface
+# Sanjaya - The Tactile Braille Interface
 
 Sanjaya is a device which will be helpful for conversion of any printed , E-Document to Braille script alphabet by alphabet.
 
